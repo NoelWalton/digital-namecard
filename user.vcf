@@ -7,8 +7,8 @@ ORG:Eagles Capital;
 TITLE:Principal\nFounder
 EMAIL;type=INTERNET;type=WORK;type=pref:info@eaglescapital-llc.com
 TEL;type=WORK;type=VOICE:(254)435-5777
-item1.ADR;type=WORK;type=pref:;;Temple\,TX.;76502
+item1.ADR;type=WORK;type=pref:;;Temple\, TX. 76502
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:eaglescapital-llc.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
